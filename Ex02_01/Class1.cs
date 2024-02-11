@@ -23,6 +23,7 @@ namespace Ex02_01
             Console.WriteLine(gameBackend.CreateStringFromBoard());
         }
 
+
         static void runFourInRowConsoleAI(int i_numberOfRows, int numberOfColumns) { }
         static void runFourInRowConsole2Users(int i_numberOfRows, int i_numberOfColumns)
         {
